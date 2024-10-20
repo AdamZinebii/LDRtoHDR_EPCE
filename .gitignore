@@ -1,0 +1,12 @@
+dataset*/
+training_results*/
+test_results*/
+checkpoints*/
+foldercheckp*/
+plots_clear
+plot*/
+/__pycache__/
+.vscode
+*.pyc
+execute_train.sh
+execute_test.sh
